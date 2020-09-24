@@ -1,4 +1,4 @@
-import os, sys, argparse
+import os, argparse
 import discord
 from discord.ext import commands
 description = "Mutes and unmutes everyone in a voice channel"
